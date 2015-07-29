@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "title": "Primary",
+    "category": "entertainment",
+    "colours": {
+      "dominant": "#F4F4F2",
+      "contrastingDominant": "#30302F",
+      "subDominant": "#FFD464",
+      "contrastingSubDominant": "#F26964",
+      "pop": "#1253A4"
+    },
+    "user": {
+      "id": 2,
+      "name": "Stanley Billfish"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Secondary",
+    "category": "sporting",
+    "colours": {
+      "dominant": "#90C5A9",
+      "contrastingDominant": "#FA8b60",
+      "subDominant": "#7A9A95",
+      "contrastingSubDominant": "#EF6D3B",
+      "pop": "#3F2860"
+    },
+    "user": {
+      "id": 77,
+      "name": "Kenneth Bumgartner"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Pastels",
+    "category": "e-commerce",
+    "colours": {
+      "dominant": "#F2F2F3",
+      "contrastingDominant": "#EE4B3E",
+      "subDominant": "#F5EACD",
+      "contrastingSubDominant": "#E9BC1B",
+      "pop": "#1FDA9A"
+    },
+    "user": {
+      "id": 100,
+      "name": "Andrew (not Edgar) Poe"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Muted",
+    "category": "blog",
+    "colours": {
+      "dominant": "#558188",
+      "contrastingDominant": "#FF9C5F",
+      "subDominant": "#FF8B6C",
+      "contrastingSubDominant": "#5FA292",
+      "pop": "#253939"
+    },
+    "user": {
+      "id": 250,
+      "name": "El Dictator Meeeeeeeeeeeesh"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Vibrant",
+    "category": "charity",
+    "colours": {
+      "dominant": "#333333",
+      "contrastingDominant": "#E05151",
+      "subDominant": "#75A3D1",
+      "contrastingSubDominant": "#D9411E",
+      "pop": "#FFD452"
+    },
+    "user": {
+      "id": 65,
+      "name": "Sharknado Survivor Liz"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Tone",
+    "category": "e-commerce",
+    "colours": {
+      "dominant": "#C7D0D5",
+      "contrastingDominant": "#F5F5F5",
+      "subDominant": "#FF7148",
+      "contrastingSubDominant": "#EC583A",
+      "pop": "#93B1C6"
+    },
+    "user": {
+      "id": 99,
+      "name": "Ryan McMacaroni"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Call-to-Action",
+    "category": "sporting",
+    "colours": {
+      "dominant": "#F0F0F0",
+      "contrastingDominant": "#202020",
+      "subDominant": "#B81D18",
+      "contrastingSubDominant": "#B6B6B6",
+      "pop": "#004687"
+    },
+    "user": {
+      "id": 56,
+      "name": "Lt. Tib-Z"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Masculine",
+    "category": "sporting",
+    "colours": {
+      "dominant": "#6E6E6E",
+      "contrastingDominant": "#FF9900",
+      "subDominant": "#393939",
+      "contrastingSubDominant": "#F3843E",
+      "pop": "#FF5A09"
+    },
+    "user": {
+      "id": 88,
+      "name": "Jamie Domiknitter"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Fem",
+    "category": "entertainment",
+    "colours": {
+      "dominant": "#4D505B",
+      "contrastingDominant": "#80628B",
+      "subDominant": "#16A79D",
+      "contrastingSubDominant": "#CF4858",
+      "pop": "#F4AC42"
+    },
+    "user": {
+      "id": 999,
+      "name": "Adam Teriyaki Strawberry"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Boring",
+    "category": "e-commerce",
+    "colours": {
+      "dominant": "#4B4D52",
+      "contrastingDominant": "#B9B1A8",
+      "subDominant": "#FFF2E7",
+      "contrastingSubDominant": "#D0CABF",
+      "pop": "#DE8642"
+    },
+    "user": {
+      "id": 863,
+      "name": "RoRo"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Vibrant",
+    "category": "blog",
+    "colours": {
+      "dominant": "#639BF1",
+      "contrastingDominant": "#3B5998",
+      "subDominant": "#293E6A",
+      "contrastingSubDominant": "#B6A754",
+      "pop": "#77BA9B"
+    },
+    "user": {
+      "id": 777,
+      "name": "NayNay"
+    }
+  }
+]

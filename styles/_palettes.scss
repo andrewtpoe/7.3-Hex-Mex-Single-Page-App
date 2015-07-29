@@ -1,0 +1,79 @@
+.palette {
+  height: 100px;
+  width: 100%;
+  margin-bottom: 20px;
+  line-height: 100px;
+  font-size: 30px;
+  background-color: #eeeeee;
+  border-radius: 50px;
+  border: 1px solid #000;
+  display: inline-block;
+  position: relative;
+}
+.palette__button {
+  background-image: url("/images/button.png");
+  background-size: 100%, 100%;
+  background-color: rgba(0,0,0,0);
+  border: none;
+  outline: none;
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  &:active {
+    border: 2px solid #4d4d4d;
+    border-radius: 40px;
+  }
+}
+.palette__title {
+  position: absolute;
+  top: 0;
+  left: 100px;
+  line-height: 98px;
+  font-size: 30px;
+}
+.palette__colors {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100px;
+  width: 75%;
+}
+
+
+
+// .palette__text {
+//   border-bottom: 1px solid #000;
+// }
+// .palette__topText {
+//   @include text-box;
+// }
+// .palette__colors {
+//   height: 125px;
+//   width: 624px;
+// }
+// .palette__color {
+//   height: 100%;
+//   width: 20%;
+//   display: inline-block;
+//   position: relative;
+//   &:hover > .palette__colorHover {
+//     opacity: 1;
+//   }
+// }
+// .palette__colorHover {
+//   padding: 5px 0;
+//   line-height: 18px;
+//   position: absolute;
+//   background-color: rgba(0,0,0,0.2);
+//   width: 100%;
+//   left: 50%;
+//   top: 50%;
+//   transform: translate(-50%, -50%);
+//   text-align: center;
+//   vertical-align: middle;
+//   color: #fff;
+//   opacity: 0;
+//   transition: opacity 1s ease-in-out;
+// }
