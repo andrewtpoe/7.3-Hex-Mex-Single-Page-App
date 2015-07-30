@@ -1,0 +1,9 @@
+@mixin detailText($top, $left) {
+  height: 50px;
+  width: 50%;
+  position: absolute;
+  top: $top;
+  left: $left;
+  padding: 0 0 0 25px;
+  font-size: 20px;
+}

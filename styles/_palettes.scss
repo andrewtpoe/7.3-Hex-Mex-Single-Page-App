@@ -10,6 +10,10 @@
   display: inline-block;
   position: relative;
 }
+.active > .palette__button {
+  transform: rotate(90deg);
+}
+
 .palette__button {
   background-image: url("/images/button.png");
   background-size: 100%, 100%;
@@ -40,40 +44,12 @@
   height: 100px;
   width: 75%;
 }
-
-
-
-// .palette__text {
-//   border-bottom: 1px solid #000;
-// }
-// .palette__topText {
-//   @include text-box;
-// }
-// .palette__colors {
-//   height: 125px;
-//   width: 624px;
-// }
-// .palette__color {
-//   height: 100%;
-//   width: 20%;
-//   display: inline-block;
-//   position: relative;
-//   &:hover > .palette__colorHover {
-//     opacity: 1;
-//   }
-// }
-// .palette__colorHover {
-//   padding: 5px 0;
-//   line-height: 18px;
-//   position: absolute;
-//   background-color: rgba(0,0,0,0.2);
-//   width: 100%;
-//   left: 50%;
-//   top: 50%;
-//   transform: translate(-50%, -50%);
-//   text-align: center;
-//   vertical-align: middle;
-//   color: #fff;
-//   opacity: 0;
-//   transition: opacity 1s ease-in-out;
-// }
+.palette__color {
+  height: 78%;
+  width: 15%;
+  margin: 10px;
+  display: inline-block;
+  border-radius: 50%;
+  vertical-align: middle;
+  float: right;
+}
